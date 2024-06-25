@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+*合照*
+*四人*
+Assets/MagicaCloth2/*
+Assets/MagicaCloth2
+*.meta
+.utmp
+*.zip
+Assets/icon图标6/方正行黑简体.TTF
